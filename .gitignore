@@ -407,3 +407,6 @@ Models/finetuned_model
 tmp.ipynb
 
 .DS_Store
+
+# ignore file model.safetensors
+model.safetensors
