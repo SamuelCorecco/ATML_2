@@ -1,0 +1,6 @@
+Mean Semantic Similarity: 0.3731
+BLEU Score: 0.0109
+Commonsense Avg: 0.4231
+Precision: 0.5317
+Recall: 0.4914
+F1: 0.5061
